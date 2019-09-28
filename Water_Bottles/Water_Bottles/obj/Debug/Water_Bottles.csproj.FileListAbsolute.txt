@@ -1,0 +1,7 @@
+C:\Users\jafar.khedri\source\repos\Water_Bottles\Water_Bottles\bin\Debug\Water_Bottles.exe.config
+C:\Users\jafar.khedri\source\repos\Water_Bottles\Water_Bottles\bin\Debug\Water_Bottles.exe
+C:\Users\jafar.khedri\source\repos\Water_Bottles\Water_Bottles\bin\Debug\Water_Bottles.pdb
+C:\Users\jafar.khedri\source\repos\Water_Bottles\Water_Bottles\obj\Debug\Water_Bottles.csprojAssemblyReference.cache
+C:\Users\jafar.khedri\source\repos\Water_Bottles\Water_Bottles\obj\Debug\Water_Bottles.csproj.CoreCompileInputs.cache
+C:\Users\jafar.khedri\source\repos\Water_Bottles\Water_Bottles\obj\Debug\Water_Bottles.exe
+C:\Users\jafar.khedri\source\repos\Water_Bottles\Water_Bottles\obj\Debug\Water_Bottles.pdb
